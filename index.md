@@ -37,6 +37,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 <br>
 
 
+## 🧑‍🎨 Project
+
+- [https://eudicl.github.io/Chip-Defect-Diagnostics/](https://eudicl.github.io/Chip-Defect-Diagnostics/)
+
+
 ## 📝 Publications 
 
 - **Wang, J.**, Li, G., Bai, H., Yuan, G., Li, X., Lin, B., ... & Zhang, X. (2024). A Hybrid Deep Learning-Based Framework for Chip Packaging Fault Diagnostics in X-Ray Images. *IEEE Transactions on Industrial Informatics*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10539348)
@@ -57,4 +62,4 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - 钟立军,林彬,**王杰**,甘叔玮 & 张小虎.(2022).基于双重分类深度学习的低空目标自动检测方法.上海航天(中英文),39(02),91-98.doi:10.19328/j.cnki.2096-8655.2022.02.014.
 
-  
+
