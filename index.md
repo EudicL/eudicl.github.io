@@ -4,36 +4,57 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://eudicl.github.io/wangjie.png" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Jie Wang (王杰)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I received the B.E. degree in transportation equipment and control engineering from Central South University, Changsha, China. I was then admitted—via the graduate recommendation scheme—to the School of Aeronautics and Astronautics at Sun Yat-sen University in Guangzhou, where I enrolled in a direct M.S.–Ph.D. program. Under the supervision of Prof. Xiaohu Zhang, I earned my Ph.D. degree in Aeronautical and Astronautical Science and Technology.
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+I am actively seeking opportunities to leverage my expertise in computer vision and vision–language model development to tackle real-world challenges and drive impactful innovation.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
-
----
-
-## Research Interests
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **wangj688@mail2.sysu.edu.cn**
 
 ---
 
-## News and Updates
+## 💻 Research Interests
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- Computer Vision
+- Photogrammetry
+- Intelligent Inspection
+- Anomaly Detection
+- Vision-Language Models
+- Generative AI
+
+---
+
+
+
+## 📖 Educations
+- *2019.06 - 2025.04*, Ph. D, Aeronautical and Astronautical Science and Technology, Sun Yat-Sen University,Guangzhou, Shenzhen.
+- *2015.09 - 2019.06*, Undergraduate, Transportation Equipment and Control, Central South University, Changsha.
+- *2012.09 - 2015.06*, Ningjin No.1 Middle School, Dezhou.
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## 📝 Publications 
+
+- **Wang, J.**, Li, G., Bai, H., Yuan, G., Li, X., Lin, B., ... & Zhang, X. (2024). A Hybrid Deep Learning-Based Framework for Chip Packaging Fault Diagnostics in X-Ray Images. *IEEE Transactions on Industrial Informatics*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10539348)
+
+- **Wang, J.**, Li, G., Bai, H., Zhou, Y., Li, X., Zhong, L., & Zhang, X. (2024). A pixel-wise segmentation method for automatic X-ray image detection of chip packaging defects. *IEEE Transactions on Components, Packaging and Manufacturing Technology*. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10599315)
+
+- **Wang, J.**, Lin, B., Li, G., Zhou, Y., Zhong, L., Li, X., & Zhang, X. (2023). YOLO-Xray: A Bubble Defect Detection Algorithm for Chip X-ray Images Based on Improved YOLOv5. *Electronics*, *12*(14), 3060.  [[Paper]](https://www.mdpi.com/2079-9292/12/14/3060)
+
+- Lin, B., **Wang, J.**, Yang, X., Tang, Z., Li, X., Duan, C., & Zhang, X. (2021). Defect contour detection of complex structural chips. *Mathematical Problems in Engineering*, *2021*(1), 5518675.
+
+- Lin, B., Yang, X., **Wang, J.**, Wang, Y., Wang, K., & Zhang, X. (2021). A robust space target detection algorithm based on target characteristics. *IEEE geoscience and remote sensing letters*, *19*, 1-5.
+
+- Lin, B., **Wang, J.**, Wang, H., Zhong, L., Yang, X., & Zhang, X. (2023). Small space target detection based on a convolutional neural network and guidance information. *Aerospace*, *10*(5), 426.
+
+- Chen, S., Guo, P., **Wang, J.**, Xu, X., Meng, L., & Zhang, X. (2024). Quadrilateral Pose Estimation for Constrained Spacecraft Guidance and Control Using Deep Learning–Based Keypoint Filtering. *Journal of Aerospace Engineering*, *37*(5), 04024062.
+
+- Bai, H., **Wang, J.**, Li, G., Yuan, G., Li, X., & Yang, X. (2025, January). Non-destructive detection of components using x-ray based on unsupervised learning. In Fourth International Conference on Computer Vision, Application, and Algorithm (CVAA 2024) (Vol. 13486, pp. 499-508). SPIE.
+
+- 钟立军,林彬,**王杰**,甘叔玮 & 张小虎.(2022).基于双重分类深度学习的低空目标自动检测方法.上海航天(中英文),39(02),91-98.doi:10.19328/j.cnki.2096-8655.2022.02.014.
+
+  
